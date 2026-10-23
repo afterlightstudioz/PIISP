@@ -4,5 +4,6 @@ PiiSP is a from-scratch PlayStation Portable emulator built to run on Nintendo W
 Built from the ground up. No forks, no borrowed cores — every component, from the instruction decoder to the memory manager, was written specifically for this project.
 The goal: prove that the Wii - a 2006 console with 88 MB of RAM and a 729 MHz CPU can do what most people assumed was impossible.
 STATUS: 🔴 EARLY IN DEVELOPMENT!
-<img width="1947" height="808" alt="piisp" src="https://github.com/user-attachments/assets/ec5f9b8a-fc40-4003-8d07-d97565315828" />
+<img width="1947" height="808" alt="piisp-Photoroom" src="https://github.com/user-attachments/assets/7afc3745-618e-4035-9712-81a96690b102" />
+
 
