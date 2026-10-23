@@ -30,7 +30,7 @@
 
 Rather than relying on existing codebases or ported cores, PiiSP features a bespoke **MIPS-to-PowerPC JIT recompiler**. It translates the PSP's 333 MHz MIPS32 instructions into native PowerPC instructions on the fly for the Wii's 729 MHz Broadway processor.
 
-> **The Goal:** Prove that a console with only **88 MB of RAM** and a **729 MHz CPU** can emulate a full 7th-gen handheld—without taking shortcuts.
+> **The Goal:** Prove that a console with only **88 MB of RAM** and a **729 MHz CPU** can emulate a full 7th-gen handheld without taking ANY shortcuts.
 
 ---
 
