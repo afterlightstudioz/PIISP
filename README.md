@@ -16,7 +16,7 @@
 ---
 
 ### ⚡ **MIPS32 → PowerPC Dynamic Translation**
-*Rewriting the rules of what 2006 hardware can achieve.*
+*Because too little ram wasn't a good enough answer.*
 
 [Overview](#-overview) • [Key Features](#-key-features) • [Roadmap & Release](#-roadmap--release) • [Current Status](#-project-status)
 
